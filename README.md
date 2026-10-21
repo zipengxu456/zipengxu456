@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Selected Collaborative Work
 
 ### [EXPoly](http://github.com/DaZhongLv/EXPoly)
